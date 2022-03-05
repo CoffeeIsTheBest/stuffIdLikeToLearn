@@ -4,6 +4,7 @@
  -  Web Security Stanford: https://www.youtube.com/playlist?list=PLMF2PpA06Sb26oYT-dfNOt3Y4wwoLAho0
  - Programming languages Technion: https://www.youtube.com/playlist?list=PLW3u28VuDAHLT9_3n2U1toNjs944mbZ-v
  - Programming languages Brown: https://www.youtube.com/playlist?list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G
+ - Computer Systems Security MIT: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/
 
 **Math courses**
 
