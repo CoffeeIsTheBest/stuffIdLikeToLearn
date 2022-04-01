@@ -6,6 +6,7 @@
  - Programming languages Brown: https://www.youtube.com/playlist?list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G
  - Computer Systems Security MIT: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/
  - Parallel Computing NC state: https://www.youtube.com/channel/UCMULNtF7ppM9uVq-hRZP-ZA/playlists
+ - Deep learning for computer vision Michigan: https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
 
 **Math courses**
 
