@@ -15,6 +15,9 @@
  - Probability theory Claudio Landim: https://www.youtube.com/playlist?list=PLo4jXE-LdDTS5BYqea-LcHdtjKwVcepP7
  - Functional Analysis Claudio Landim: https://www.youtube.com/playlist?list=PLo4jXE-LdDTTIIIRwqK35CbFJieSJEcVR
 
+**Machine learning courses**
+- Reinforcement learning Emma Brunskill https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
+
 **General courses**
 
  - Philosophy of the Humanities Leiden University:
